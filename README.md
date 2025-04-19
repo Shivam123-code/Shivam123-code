@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Currently in my 5th semester of B.Tech, building cool, impactful full-stack and AI-based projects.
+- 👨‍💻 Currently I am doing B.Tech, building cool, impactful full-stack and AI-based projects.
 - 🌱 Always exploring new technologies—recently diving deep into **AI with Python**, **Flutter**, and **React**.
 - 🛠️ Love solving problems, from **smart dashboards** to **data scraping** and **admin panels**.
 - 🎯 My goal? Build tech that helps real people and looks damn good doing it.
